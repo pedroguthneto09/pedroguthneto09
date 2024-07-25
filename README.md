@@ -9,3 +9,5 @@ Meu nome é Pedro Ricardo
 ### Você pode entrar em contato comigo 📪
 
 pedro.guth.neto@escola.pr.gov.br
+
+!
